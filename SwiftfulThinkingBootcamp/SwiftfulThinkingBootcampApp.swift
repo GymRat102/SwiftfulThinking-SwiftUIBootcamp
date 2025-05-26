@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-@main
+@main // start load at here @main
 struct SwiftfulThinkingBootcampApp: App {
     var body: some Scene {
         WindowGroup {
